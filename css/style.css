@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Montserrat:600&display=swap");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/cardd.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+
+	font-family: 'Lora', serif;
+	font-size: 18px;
+}
+
+
+h1,h2,h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+
+p{
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	text-align: justify;
+	margin-bottom: 40,40px;
+}
+
+a{ 
+	text-decoration: none; 
+ }
